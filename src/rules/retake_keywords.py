@@ -1,0 +1,1 @@
+RETAKE_KEYWORDS = ["retake", "retook", "re-take", "re exam", "재응시", "재시험", "재수강", "note: 재응시"]
