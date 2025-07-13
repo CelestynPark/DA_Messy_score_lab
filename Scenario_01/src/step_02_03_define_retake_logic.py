@@ -18,6 +18,7 @@ def detect_retake(df):
         return 'N'
     
     df['재응시여부'] = df['비고'].apply(is_retake)
+    
     return df
 
 def add_retake_column(csv_path: str, save_path:str = None) -> pd.DataFrame:
