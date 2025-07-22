@@ -20,4 +20,37 @@ def detect_suspicious_cases(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def compare_sample_quality(df: pd.DataFrame) -> pd.DataFrame:
-    pass # TODO: Implement the function to classify samples into high and low confidence categories
+    # 고신뢰 / 저신뢰 샘플을 분류하여 집계 비교용 태그 칼럼을 추가
+
+    def is_high_confidence(row):
+        return(
+            row['score_quality'] == 'A' and
+            pd.isna(row['시험일']) and
+            pd.isna(row['이름']) and str(row['이름']).strip() == "" or
+            pd.isna(row['나이'])
+        )
+    
+    def is_low_condfidence(row):
+        return(
+            row['score_quality'] == 'C' and
+            pd.isna(row['시험일']) and
+            (
+                pd.isna(row['이름']) or
+                pd.isna(row['나이']) or
+                pd.isna(row['성별']) or
+                pd.isna(row['비고'])
+            )
+        )
+    
+    tags = []
+    for _, row in df.iterrows():
+        if is_high_confidence(row):
+            tags.append('고신뢰')
+        elif is_low_condfidence(row):
+            tags.append('저신뢰')
+        else:
+            tags.append('중간')
+
+    df['신뢰도_샘플_분류'] = tags
+    return df
+

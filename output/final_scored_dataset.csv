@@ -1,0 +1,501 @@
+이름,나이,성별,점수,시험일,비고,정제된_점수,score_quality,is_score_clean,is_retake_candidate,신뢰도_샘플_분류
+,0x1d,남,,19.09.1979,,,C,False,False,중간
+서정남,twenty,male,59점,,,59.0,A,True,False,중간
+김영자,,male,ninety-five,,.,,C,False,False,고신뢰
+,10세,male,none,10-06-1980,retake,,C,False,True,중간
+김재호,,m,90점,1979년 05월 16일,없음,90.0,A,True,False,고신뢰
+김은서,14,남,ninety-five,,note: 재응시,,C,False,True,중간
+김지원,,F,none,Aug/30/1982,Retook,,C,False,True,고신뢰
+이민지,,남,57,Oct/25/1987,retake,57.0,A,True,True,고신뢰
+,twenty,f,eighty,1989년 06월 08일,note: 재응시,,C,False,True,중간
+홍예준,twenty,male,eighty,,,,C,False,False,저신뢰
+,0x17,f,,18-07-2018,Retook,,C,False,True,중간
+,15,male,0b1010011,1991/10/01,,83.0,B,False,False,중간
+강채원,?,m,0b111010,31.05.1990,retake,58.0,B,False,True,중간
+한경희,seventeen,F,96,,없음,96.0,A,True,False,중간
+이도현,,female,,05-04-1978,,,C,False,False,고신뢰
+김서준,,male,66점,2023/10/14,,66.0,A,True,False,고신뢰
+이영미,20세,여,,09.09.2024,없음,,C,False,False,중간
+이진우,18,m,eighty,,retake,,C,False,True,중간
+강보람,,,60점,1997년 11월 11일,.,60.0,A,True,False,고신뢰
+김영미,seventeen,,93점,2009-02-14,,93.0,A,True,False,중간
+윤윤서,18,여,64,13-04-2016,retake,64.0,A,True,True,중간
+홍지영,21세,m,52,,Retook,52.0,A,True,True,중간
+김성수,0x13,F,eighty,1978-10-13,.,,C,False,False,중간
+김진우,-,남,none,1990/09/12,Retook,,C,False,True,중간
+이은지,-,male,none,24-04-2005,note: 재응시,,C,False,True,중간
+허영길,-,M,70점,,,70.0,A,True,False,중간
+,seventeen,f,,,Retook,,C,False,True,저신뢰
+,?,female,ninety-five,2010/04/10,Retook,,C,False,True,중간
+,twenty,,52점,2019/01/15,note: 재응시,52.0,A,True,True,중간
+김명숙,19세,f,0b1100011,Jun/20/2022,,99.0,B,False,False,중간
+강주원,seventeen,female,,11.03.2022,,,C,False,False,중간
+김성훈,seventeen,m,0b111110,2007년 02월 16일,note: 재응시,62.0,B,False,True,중간
+박현지,-,female,ninety-five,2013/09/06,note: 재응시,,C,False,True,중간
+김정희,-,f,,2024-12-09,,,C,False,False,중간
+박수민,14세,,,,note: 재응시,,C,False,True,저신뢰
+,,남,eighty,,re-take,,C,False,True,고신뢰
+,11세,male,ninety-five,Feb/18/1997,,,C,False,False,중간
+박병철,,female,84,2021-10-06,,84.0,A,True,False,고신뢰
+,,,none,04-05-1978,,,C,False,False,고신뢰
+,?,여,96점,,Retook,96.0,A,True,True,중간
+박지영,,m,none,,없음,,C,False,False,고신뢰
+,?,female,0b111011,2019-01-27,,59.0,B,False,False,중간
+남중수,0x17,남,,30.12.1990,,,C,False,False,중간
+이명숙,twenty,f,,May/20/1986,Retook,,C,False,True,중간
+하미경,twenty,female,55점,10.06.1973,re-take,55.0,A,True,True,중간
+김정훈,-,male,none,2010-08-30,re-take,,C,False,True,중간
+김예은,20,m,54,11.02.1979,,54.0,A,True,False,중간
+,16,,ninety-five,10-06-1997,,,C,False,False,중간
+김영철,,여,none,1973-06-25,,,C,False,False,고신뢰
+김숙자,,female,,2022년 01월 07일,없음,,C,False,False,고신뢰
+윤영희,0x17,f,67점,20.04.2016,re-take,67.0,A,True,True,중간
+김서윤,-,male,58점,1978-10-03,,58.0,A,True,False,중간
+최상현,?,f,,17-05-2021,,,C,False,False,중간
+김재현,14,female,70점,1997/04/25,없음,70.0,A,True,False,중간
+,?,F,ninety-five,Mar/28/2002,없음,,C,False,False,중간
+김정남,-,,0b1001111,,,79.0,B,False,False,중간
+김진우,,여,0b111100,2020년 04월 23일,없음,60.0,B,False,False,고신뢰
+박지우,-,,95,,없음,95.0,A,True,False,중간
+,18,,70점,,,70.0,A,True,False,중간
+이영수,21세,남,none,17.06.1977,,,C,False,False,중간
+,seventeen,,0b1011101,1990-12-09,없음,93.0,B,False,False,중간
+이성현,twenty,M,none,2002/04/19,note: 재응시,,C,False,True,중간
+김서연,?,m,,2009/04/23,,,C,False,False,중간
+이서준,21세,여,56점,Jan/29/2019,note: 재응시,56.0,A,True,True,중간
+유시우,15,m,100,1972년 02월 24일,,100.0,A,True,False,중간
+최명숙,seventeen,male,eighty,2000년 01월 06일,,,C,False,False,중간
+전현주,0x13,F,75점,Dec/27/2016,.,75.0,A,True,False,중간
+홍민지,,f,87점,12.08.2011,없음,87.0,A,True,False,고신뢰
+,,m,,26.05.1979,,,C,False,False,고신뢰
+,?,남,55점,,,55.0,A,True,False,중간
+안영길,?,male,eighty,,,,C,False,False,저신뢰
+,,여,none,1994-02-09,retake,,C,False,True,고신뢰
+오민지,-,male,none,Dec/13/2002,retake,,C,False,True,중간
+주영환,20세,남,eighty,24-12-2007,.,,C,False,False,중간
+신명숙,?,f,eighty,,retake,,C,False,True,중간
+,?,f,ninety-five,1991/07/30,,,C,False,False,중간
+성도현,seventeen,F,none,1988/08/10,re-take,,C,False,True,중간
+최정남,0x1a,m,80점,Aug/10/2022,.,80.0,A,True,False,중간
+,10세,,none,1975년 05월 19일,retake,,C,False,True,중간
+최우진,,m,ninety-five,2000/02/08,.,,C,False,False,고신뢰
+,?,,90,Mar/31/2008,note: 재응시,90.0,A,True,True,중간
+김정희,seventeen,f,,Jun/01/2020,note: 재응시,,C,False,True,중간
+이정남,,,,,없음,,C,False,False,고신뢰
+,,,,,retake,,C,False,True,고신뢰
+박현준,0x1e,f,74,,.,74.0,A,True,False,중간
+,18세,,70,09.09.1997,,70.0,A,True,False,중간
+심중수,,M,,1991년 11월 09일,,,C,False,False,고신뢰
+이민지,?,female,ninety-five,,,,C,False,False,저신뢰
+한은영,seventeen,,ninety-five,,re-take,,C,False,True,저신뢰
+윤경숙,twenty,,67,1981-11-30,Retook,67.0,A,True,True,중간
+,0x14,F,none,,retake,,C,False,True,저신뢰
+,twenty,F,ninety-five,2008/08/25,,,C,False,False,중간
+최서준,0x10,여,,Aug/12/2003,없음,,C,False,False,중간
+오서영,,female,,2001/11/06,re-take,,C,False,True,고신뢰
+이예지,?,남,ninety-five,,re-take,,C,False,True,중간
+홍미경,?,,eighty,16.02.2020,.,,C,False,False,중간
+이건우,twenty,M,81,14.07.2021,없음,81.0,A,True,False,중간
+,12세,,64,1992년 04월 25일,note: 재응시,64.0,A,True,True,중간
+최영자,?,f,,,note: 재응시,,C,False,True,중간
+,0x1d,female,,1996년 02월 07일,.,,C,False,False,중간
+,seventeen,f,95,1986-01-10,.,95.0,A,True,False,중간
+,seventeen,F,eighty,Oct/19/1987,Retook,,C,False,True,중간
+배주원,15,M,,25.03.1974,,,C,False,False,중간
+배서영,0x1f,F,none,Sep/08/2016,note: 재응시,,C,False,True,중간
+,0x19,male,0b1000111,2022/05/22,Retook,71.0,B,False,True,중간
+이은정,0x17,여,none,,없음,,C,False,False,중간
+남준호,,,,1995년 06월 05일,,,C,False,False,고신뢰
+,twenty,,,2017/10/07,re-take,,C,False,True,중간
+서성진,0x15,,eighty,11-11-1984,,,C,False,False,중간
+송채원,?,,0b1100000,,Retook,96.0,B,False,True,중간
+이지우,,,58,1977년 08월 20일,.,58.0,A,True,False,고신뢰
+문준호,25,여,94,2006년 07월 09일,retake,94.0,A,True,True,중간
+류영길,23,m,ninety-five,30.05.2005,,,C,False,False,중간
+,0x10,female,,Apr/07/2003,Retook,,C,False,True,중간
+,,f,71점,12-01-2025,retake,71.0,A,True,True,고신뢰
+주수빈,-,m,eighty,17.05.2008,없음,,C,False,False,중간
+이현지,,,,,없음,,C,False,False,고신뢰
+,20세,,ninety-five,02.10.2020,,,C,False,False,중간
+김현주,?,남,,12.06.1993,,,C,False,False,중간
+,?,female,66,15.02.2002,Retook,66.0,A,True,True,중간
+,,M,none,Feb/11/2022,note: 재응시,,C,False,True,고신뢰
+,,m,none,26.06.1995,retake,,C,False,True,고신뢰
+오건우,seventeen,F,84점,17.06.2016,,84.0,A,True,False,중간
+박정희,21,male,ninety-five,27.01.1978,retake,,C,False,True,중간
+,0x14,f,60,14.07.2019,.,60.0,A,True,False,중간
+장성진,24,F,0b1000110,2018년 12월 08일,,70.0,B,False,False,중간
+,,F,eighty,14-03-2006,retake,,C,False,True,고신뢰
+이승민,seventeen,남,60점,1993/07/22,없음,60.0,A,True,False,중간
+이민수,twenty,female,,1977/09/05,,,C,False,False,중간
+노정남,-,male,eighty,2022/02/17,re-take,,C,False,True,중간
+강수진,?,female,88,,없음,88.0,A,True,False,중간
+김수빈,,m,ninety-five,2017-11-10,,,C,False,False,고신뢰
+최재호,-,여,,1999-11-15,note: 재응시,,C,False,True,중간
+,0x10,,0b1000100,,re-take,68.0,B,False,True,중간
+배주원,?,m,none,2015년 10월 07일,retake,,C,False,True,중간
+김영일,,female,eighty,2005년 06월 21일,,,C,False,False,고신뢰
+,seventeen,m,none,,,,C,False,False,저신뢰
+장서윤,-,F,,Mar/10/2016,,,C,False,False,중간
+김상호,-,m,ninety-five,,Retook,,C,False,True,중간
+,22,m,90점,09-09-2005,note: 재응시,90.0,A,True,True,중간
+강병철,?,female,none,Jul/07/1982,,,C,False,False,중간
+박서현,twenty,F,0b1011100,,.,92.0,B,False,False,중간
+김지아,?,male,none,03.12.1973,,,C,False,False,중간
+김영자,20세,M,,25-01-2006,re-take,,C,False,True,중간
+성영진,?,F,0b110100,1987-05-09,re-take,52.0,B,False,True,중간
+,0x17,M,ninety-five,,없음,,C,False,False,저신뢰
+송정남,12세,female,eighty,,Retook,,C,False,True,중간
+최현정,0x15,F,94점,1974-12-15,,94.0,A,True,False,중간
+강정희,10,남,,1992년 08월 28일,retake,,C,False,True,중간
+,-,여,ninety-five,,,,C,False,False,저신뢰
+서예은,twenty,,,04-08-2002,,,C,False,False,중간
+김재현,-,남,,,.,,C,False,False,중간
+박은정,seventeen,,0b1010000,1989/04/06,Retook,80.0,B,False,True,중간
+김성민,0x1e,남,55,,,55.0,A,True,False,중간
+이영철,,female,eighty,2021년 10월 30일,,,C,False,False,고신뢰
+김정수,,,eighty,1991-10-17,,,C,False,False,고신뢰
+김영순,?,f,eighty,2008-04-12,re-take,,C,False,True,중간
+이서영,?,m,none,30.12.2018,re-take,,C,False,True,중간
+배영환,,여,0b111011,,,59.0,B,False,False,고신뢰
+고지연,-,f,96점,2003/12/24,,96.0,A,True,False,중간
+,?,남,,2020년 04월 30일,note: 재응시,,C,False,True,중간
+고현정,seventeen,남,,1993년 12월 19일,,,C,False,False,중간
+,18세,f,,Mar/26/2003,,,C,False,False,중간
+김서윤,11,f,none,30-12-1973,note: 재응시,,C,False,True,중간
+김성진,0x12,M,59점,Jan/24/1998,,59.0,A,True,False,중간
+,seventeen,,86점,14.02.2018,,86.0,A,True,False,중간
+김우진,twenty,여,,Feb/11/1974,note: 재응시,,C,False,True,중간
+,,m,,,note: 재응시,,C,False,True,고신뢰
+,twenty,,86,1970년 10월 22일,Retook,86.0,A,True,True,중간
+김성훈,22세,f,eighty,1989년 07월 05일,.,,C,False,False,중간
+이정훈,,f,none,03-05-2025,,,C,False,False,고신뢰
+권준영,0x1b,M,ninety-five,,없음,,C,False,False,중간
+김경수,seventeen,여,0b1010000,,Retook,80.0,B,False,True,중간
+엄순자,seventeen,여,0b1000111,03.01.1997,Retook,71.0,B,False,True,중간
+황은지,-,male,67점,,,67.0,A,True,False,중간
+하서연,13,F,,2021년 09월 09일,,,C,False,False,중간
+김민수,25세,,none,2007년 08월 12일,없음,,C,False,False,중간
+최서윤,?,F,ninety-five,,없음,,C,False,False,중간
+황민지,-,,,May/18/2023,note: 재응시,,C,False,True,중간
+,0x1d,남,98,,없음,98.0,A,True,False,중간
+차미영,?,female,100점,11-05-2002,없음,100.0,A,True,False,중간
+,17세,female,none,15-12-2006,retake,,C,False,True,중간
+,-,여,58,05.02.1984,.,58.0,A,True,False,중간
+한재현,?,m,61,2018/07/02,re-take,61.0,A,True,True,중간
+,12,F,65,Jan/27/2016,없음,65.0,A,True,False,중간
+김현지,seventeen,male,0b111110,04.05.2020,,62.0,B,False,False,중간
+,seventeen,m,none,,re-take,,C,False,True,저신뢰
+박성현,0x10,,90,,,90.0,A,True,False,중간
+,twenty,female,,13.07.2010,retake,,C,False,True,중간
+,13,,,25-02-2013,note: 재응시,,C,False,True,중간
+이지민,21,f,0b111100,19-03-1994,note: 재응시,60.0,B,False,True,중간
+이지원,twenty,,0b110111,,없음,55.0,B,False,False,중간
+박영희,?,f,eighty,2022-07-19,re-take,,C,False,True,중간
+이지혜,?,,ninety-five,27-03-1988,Retook,,C,False,True,중간
+김춘자,?,F,ninety-five,,Retook,,C,False,True,중간
+박우진,-,female,,,retake,,C,False,True,중간
+김준혁,?,female,51,11-05-1988,note: 재응시,51.0,A,True,True,중간
+,twenty,m,eighty,2004년 11월 14일,re-take,,C,False,True,중간
+,,,0b1000000,,.,64.0,B,False,False,고신뢰
+김진호,?,남,0b1011111,Jan/29/1992,retake,95.0,B,False,True,중간
+오영식,,male,,Jan/09/2023,없음,,C,False,False,고신뢰
+,seventeen,,0b1001111,2019-04-30,Retook,79.0,B,False,True,중간
+안동현,-,,none,,.,,C,False,False,저신뢰
+한성수,-,F,,2003/07/23,,,C,False,False,중간
+박옥자,twenty,남,0b1010101,26-05-1990,,85.0,B,False,False,중간
+,12세,female,,1994-07-29,retake,,C,False,True,중간
+,,F,,27.02.2001,없음,,C,False,False,고신뢰
+김민석,11세,여,0b1011011,Mar/15/2012,note: 재응시,91.0,B,False,True,중간
+,23,male,ninety-five,,,,C,False,False,저신뢰
+,19세,F,,2010/06/13,note: 재응시,,C,False,True,중간
+박수빈,seventeen,남,93,,note: 재응시,93.0,A,True,True,중간
+김상현,21세,female,0b1000100,2003년 06월 01일,,68.0,B,False,False,중간
+김영진,,남,76,Aug/04/1995,,76.0,A,True,False,고신뢰
+우영철,twenty,,ninety-five,1983년 08월 07일,.,,C,False,False,중간
+김채원,,f,ninety-five,2007년 06월 08일,,,C,False,False,고신뢰
+,-,f,,Apr/07/1984,,,C,False,False,중간
+박병철,14세,,0b1010010,2024년 02월 07일,re-take,82.0,B,False,True,중간
+노영수,?,남,eighty,1997-11-04,retake,,C,False,True,중간
+,0x1b,,eighty,,,,C,False,False,저신뢰
+김민서,twenty,f,,1995/08/28,,,C,False,False,중간
+이혜진,0x12,f,,1998년 06월 19일,retake,,C,False,True,중간
+권예준,?,남,,20.06.1994,.,,C,False,False,중간
+김옥순,,m,none,06-06-2013,re-take,,C,False,True,고신뢰
+박준호,21세,,0b1001001,Apr/27/1981,retake,73.0,B,False,True,중간
+이은정,19,남,68점,2014년 01월 04일,.,68.0,A,True,False,중간
+서현정,17,,53점,1977년 03월 18일,note: 재응시,53.0,A,True,True,중간
+김재호,twenty,남,62점,,.,62.0,A,True,False,중간
+,19세,m,0b1010011,,retake,83.0,B,False,True,중간
+,twenty,male,eighty,1995/06/17,,,C,False,False,중간
+김정식,,남,,,retake,,C,False,True,고신뢰
+박정순,21,남,eighty,Nov/04/1975,Retook,,C,False,True,중간
+안은정,10세,female,,,,,C,False,False,저신뢰
+심영자,-,m,90,18-06-2005,.,90.0,A,True,False,중간
+윤하은,19,,ninety-five,18-02-2019,없음,,C,False,False,중간
+김민지,,M,eighty,1977년 10월 31일,Retook,,C,False,True,고신뢰
+권영호,seventeen,female,100점,,retake,100.0,A,True,True,중간
+,-,M,none,,.,,C,False,False,저신뢰
+노예진,,m,none,1992/07/10,,,C,False,False,고신뢰
+,,남,ninety-five,1997/07/25,note: 재응시,,C,False,True,고신뢰
+이상훈,twenty,여,,02-12-1996,,,C,False,False,중간
+,0x14,f,98,1970년 04월 21일,,98.0,A,True,False,중간
+하혜진,15세,,ninety-five,10.12.1988,Retook,,C,False,True,중간
+,?,,0b1001000,2024년 05월 28일,없음,72.0,B,False,False,중간
+박은지,?,m,,2001년 02월 19일,,,C,False,False,중간
+김은서,0x1e,f,69점,Nov/29/2005,,69.0,A,True,False,중간
+,,m,,Sep/17/1996,Retook,,C,False,True,고신뢰
+이정남,?,f,,,re-take,,C,False,True,중간
+이정자,0x1b,m,eighty,Mar/30/1990,note: 재응시,,C,False,True,중간
+노준서,?,m,ninety-five,,,,C,False,False,저신뢰
+박숙자,,남,ninety-five,2017년 03월 10일,,,C,False,False,고신뢰
+주승민,?,F,ninety-five,,,,C,False,False,저신뢰
+,,,,,retake,,C,False,True,고신뢰
+이서연,?,M,60,29-11-2013,retake,60.0,A,True,True,중간
+권재현,,여,,20-07-1979,note: 재응시,,C,False,True,고신뢰
+김유진,,male,89,2012-02-25,,89.0,A,True,False,고신뢰
+이정자,,M,92,16-02-1996,.,92.0,A,True,False,고신뢰
+,0x19,male,none,18.06.2003,없음,,C,False,False,중간
+,twenty,여,,Jun/23/2008,,,C,False,False,중간
+,twenty,,eighty,2021/10/16,,,C,False,False,중간
+박미영,,male,63,12.06.1981,re-take,63.0,A,True,True,고신뢰
+,,남,76점,28-07-2022,retake,76.0,A,True,True,고신뢰
+이지현,0x1b,m,eighty,,없음,,C,False,False,중간
+김유진,?,,56점,1994/12/19,없음,56.0,A,True,False,중간
+,twenty,m,57점,2000/01/14,없음,57.0,A,True,False,중간
+,,,ninety-five,2014/06/26,.,,C,False,False,고신뢰
+이현숙,-,,ninety-five,,note: 재응시,,C,False,True,저신뢰
+류수빈,twenty,F,0b1001100,2022-10-13,,76.0,B,False,False,중간
+최현준,,,,2010-01-03,.,,C,False,False,고신뢰
+김영철,?,F,,,retake,,C,False,True,중간
+최영철,?,male,50점,1984/01/31,.,50.0,A,True,False,중간
+이병철,?,,,1989/02/16,,,C,False,False,중간
+최서현,twenty,female,,Mar/11/1988,retake,,C,False,True,중간
+김지아,16,,96점,24-06-1976,,96.0,A,True,False,중간
+송영숙,,M,,1974/01/13,.,,C,False,False,고신뢰
+류현지,twenty,m,68,,note: 재응시,68.0,A,True,True,중간
+김영일,-,,0b110100,Sep/04/1979,re-take,52.0,B,False,True,중간
+문채원,,여,none,10.03.1998,없음,,C,False,False,고신뢰
+박영길,-,f,97,28.04.2022,,97.0,A,True,False,중간
+이은지,17세,F,eighty,Feb/12/1995,re-take,,C,False,True,중간
+박현우,,여,0b1001110,,Retook,78.0,B,False,True,고신뢰
+한재호,twenty,male,,13-03-2001,,,C,False,False,중간
+고지혜,twenty,M,none,23-02-2024,,,C,False,False,중간
+,24세,m,,01-09-2003,note: 재응시,,C,False,True,중간
+,twenty,male,91점,1992-12-25,,91.0,A,True,False,중간
+강지훈,seventeen,female,58,2023-08-24,note: 재응시,58.0,A,True,True,중간
+신영희,seventeen,F,,1978년 06월 15일,re-take,,C,False,True,중간
+강준호,24세,m,eighty,1983년 10월 08일,,,C,False,False,중간
+한지후,twenty,F,,,.,,C,False,False,중간
+,,여,eighty,,없음,,C,False,False,고신뢰
+김영진,23세,여,none,Dec/21/1996,,,C,False,False,중간
+안보람,-,,0b110110,,,54.0,B,False,False,중간
+문우진,,female,,20-11-2017,re-take,,C,False,True,고신뢰
+백민재,10세,,ninety-five,12-01-1979,note: 재응시,,C,False,True,중간
+김상훈,,f,,,re-take,,C,False,True,고신뢰
+,,남,94점,,,94.0,A,True,False,고신뢰
+김영희,?,,ninety-five,Nov/05/2024,note: 재응시,,C,False,True,중간
+최재현,?,남,none,1996년 01월 17일,re-take,,C,False,True,중간
+김준혁,11,여,59,,.,59.0,A,True,False,중간
+이영식,0x1a,여,,01.05.2008,,,C,False,False,중간
+,22,M,81점,1981/03/03,re-take,81.0,A,True,True,중간
+이현지,16,,ninety-five,,,,C,False,False,저신뢰
+이윤서,,female,,Jul/13/1979,re-take,,C,False,True,고신뢰
+신명숙,-,,none,1999년 03월 22일,re-take,,C,False,True,중간
+박하윤,?,male,,,없음,,C,False,False,중간
+,-,,86점,Oct/31/2010,Retook,86.0,A,True,True,중간
+윤우진,,,78점,04-01-2023,,78.0,A,True,False,고신뢰
+,20세,남,81,Sep/03/2004,,81.0,A,True,False,중간
+강하윤,?,female,56,2020-11-21,Retook,56.0,A,True,True,중간
+이영희,,male,85점,2024-01-07,re-take,85.0,A,True,True,고신뢰
+서미경,-,male,0b1011001,02-06-2010,없음,89.0,B,False,False,중간
+신민준,-,,,1998년 08월 22일,re-take,,C,False,True,중간
+,twenty,male,ninety-five,Nov/26/2021,retake,,C,False,True,중간
+백지은,11세,,,,없음,,C,False,False,저신뢰
+류영수,-,F,,1987-11-04,,,C,False,False,중간
+신순자,,남,ninety-five,,,,C,False,False,고신뢰
+차민수,twenty,f,0b1001000,,.,72.0,B,False,False,중간
+고지민,0x1a,M,83점,Nov/18/1988,,83.0,A,True,False,중간
+,twenty,male,eighty,1991-02-02,.,,C,False,False,중간
+,0x13,남,none,,re-take,,C,False,True,저신뢰
+박정숙,0x16,남,ninety-five,Feb/09/1991,note: 재응시,,C,False,True,중간
+,twenty,여,ninety-five,10.12.1973,Retook,,C,False,True,중간
+,?,남,,1999-07-27,re-take,,C,False,True,중간
+,20세,female,56,1981년 12월 14일,re-take,56.0,A,True,True,중간
+김명자,twenty,여,93점,04.05.1979,retake,93.0,A,True,True,중간
+백수진,seventeen,f,,,.,,C,False,False,중간
+김진우,14,m,,,note: 재응시,,C,False,True,중간
+,,남,none,,note: 재응시,,C,False,True,고신뢰
+김예원,0x12,,eighty,05.07.1988,note: 재응시,,C,False,True,중간
+,-,male,eighty,29-03-2009,retake,,C,False,True,중간
+,14세,f,,,없음,,C,False,False,저신뢰
+김영식,twenty,f,ninety-five,,Retook,,C,False,True,중간
+곽경수,,m,0b1000111,06.11.1977,,71.0,B,False,False,고신뢰
+박진호,0x14,F,none,Aug/23/1986,re-take,,C,False,True,중간
+김정순,seventeen,F,,1994/10/08,,,C,False,False,중간
+구아름,0x12,f,,,,,C,False,False,저신뢰
+김민석,0x14,,ninety-five,30.04.1998,없음,,C,False,False,중간
+박정숙,twenty,male,0b1011001,Feb/15/1978,re-take,89.0,B,False,True,중간
+최경자,11세,female,eighty,Sep/25/2024,,,C,False,False,중간
+김미정,-,m,,Mar/18/1989,,,C,False,False,중간
+김지연,0x19,m,,,,,C,False,False,저신뢰
+김준호,0x1c,female,,14.05.2008,re-take,,C,False,True,중간
+김지후,twenty,,none,2012/05/17,re-take,,C,False,True,중간
+,?,M,0b1010100,19-10-2022,note: 재응시,84.0,B,False,True,중간
+김민준,,F,50점,06-09-1986,note: 재응시,50.0,A,True,True,고신뢰
+김경숙,twenty,m,51,Apr/11/2013,retake,51.0,A,True,True,중간
+,seventeen,female,0b111110,1992/10/18,,62.0,B,False,False,중간
+,?,F,0b111100,,retake,60.0,B,False,True,중간
+,17,,93,,.,93.0,A,True,False,중간
+박미영,seventeen,f,ninety-five,May/15/2005,,,C,False,False,중간
+노경희,seventeen,여,,,note: 재응시,,C,False,True,중간
+문옥순,?,f,,13.05.2013,note: 재응시,,C,False,True,중간
+,25세,여,,1978년 11월 23일,note: 재응시,,C,False,True,중간
+이정수,seventeen,m,0b1010010,1986-02-10,Retook,82.0,B,False,True,중간
+,0x11,male,none,15-03-1992,re-take,,C,False,True,중간
+조도윤,,female,,1985-11-24,,,C,False,False,고신뢰
+강영철,twenty,male,0b110010,2009-10-15,,50.0,B,False,False,중간
+,,female,,30-08-1997,없음,,C,False,False,고신뢰
+,,,,1984/02/17,,,C,False,False,고신뢰
+고은지,21세,,ninety-five,Sep/07/2016,note: 재응시,,C,False,True,중간
+오서영,24세,남,0b111110,Aug/19/1984,,62.0,B,False,False,중간
+김성진,,,61점,24-05-2018,,61.0,A,True,False,고신뢰
+이동현,seventeen,m,,,retake,,C,False,True,중간
+장성호,22,female,none,1972-02-12,,,C,False,False,중간
+유도윤,,M,eighty,07.12.1976,없음,,C,False,False,고신뢰
+,,M,60,1978/04/07,,60.0,A,True,False,고신뢰
+송윤서,0x1c,F,eighty,05-04-1997,,,C,False,False,중간
+최순옥,?,m,52,2013-11-14,,52.0,A,True,False,중간
+이정남,21세,M,0b1011001,,retake,89.0,B,False,True,중간
+문정희,?,F,,17.01.2025,,,C,False,False,중간
+조순자,?,남,,1999년 06월 24일,Retook,,C,False,True,중간
+김은지,seventeen,m,,,,,C,False,False,저신뢰
+김준혁,11,m,eighty,Sep/26/1982,,,C,False,False,중간
+,twenty,M,none,,retake,,C,False,True,저신뢰
+,,f,ninety-five,1998년 01월 14일,note: 재응시,,C,False,True,고신뢰
+강은주,,여,,,,,C,False,False,고신뢰
+남준영,,남,,1979-05-05,,,C,False,False,고신뢰
+김정식,?,male,80,1971년 05월 01일,,80.0,A,True,False,중간
+,?,남,,2023/03/18,retake,,C,False,True,중간
+,,male,ninety-five,31-05-1993,,,C,False,False,고신뢰
+,0x19,F,none,1996-06-06,,,C,False,False,중간
+김영자,?,female,0b1001010,Feb/12/1989,,74.0,B,False,False,중간
+,18세,male,84,,retake,84.0,A,True,True,중간
+,twenty,F,,1980/11/11,note: 재응시,,C,False,True,중간
+김우진,11세,female,82,,.,82.0,A,True,False,중간
+이정숙,?,남,,06-04-2024,,,C,False,False,중간
+박서준,,M,eighty,23.08.1991,,,C,False,False,고신뢰
+김영자,seventeen,f,99,Nov/14/2017,.,99.0,A,True,False,중간
+장영식,seventeen,male,ninety-five,,.,,C,False,False,중간
+김영숙,,여,ninety-five,2025-02-23,,,C,False,False,고신뢰
+김수진,25,f,none,1976/02/22,re-take,,C,False,True,중간
+,?,F,eighty,17.01.1970,,,C,False,False,중간
+김정호,0x1a,F,,,.,,C,False,False,중간
+이정식,,M,52,,retake,52.0,A,True,True,고신뢰
+,twenty,여,,19.07.1977,,,C,False,False,중간
+문광수,twenty,m,0b1000000,1974-12-08,re-take,64.0,B,False,True,중간
+허준호,0x10,F,none,15.12.1991,,,C,False,False,중간
+최정희,?,남,none,,,,C,False,False,저신뢰
+김경수,0x1e,,93,1981/11/08,Retook,93.0,A,True,True,중간
+송우진,twenty,여,96점,16.04.2015,,96.0,A,True,False,중간
+허미경,24,,98,,Retook,98.0,A,True,True,중간
+,twenty,m,,,re-take,,C,False,True,저신뢰
+이숙자,23세,M,0b1100100,May/23/1982,,100.0,B,False,False,중간
+이민준,twenty,M,,2008년 06월 26일,re-take,,C,False,True,중간
+김옥순,25,female,74,28-07-1979,,74.0,A,True,False,중간
+이지민,?,F,ninety-five,1986-03-13,,,C,False,False,중간
+송서현,18,f,,2015/08/06,없음,,C,False,False,중간
+,18,남,0b111011,Mar/03/2017,,59.0,B,False,False,중간
+윤보람,twenty,m,,,retake,,C,False,True,중간
+박지연,0x13,F,eighty,Jul/23/1998,re-take,,C,False,True,중간
+박현숙,twenty,여,none,25.11.1993,,,C,False,False,중간
+윤은정,,f,0b110111,2021년 08월 07일,note: 재응시,55.0,B,False,True,고신뢰
+,seventeen,F,,2016-10-05,,,C,False,False,중간
+,24세,F,,09.09.1991,Retook,,C,False,True,중간
+김영일,,F,ninety-five,1993/04/05,.,,C,False,False,고신뢰
+박도윤,,female,66점,30.12.1992,없음,66.0,A,True,False,고신뢰
+김채원,?,female,61,,re-take,61.0,A,True,True,중간
+강예진,?,male,,1992년 07월 13일,Retook,,C,False,True,중간
+최주원,14,남,68점,1983-12-27,Retook,68.0,A,True,True,중간
+박지원,-,f,,20-01-1988,Retook,,C,False,True,중간
+이예은,10세,남,ninety-five,Nov/28/2008,,,C,False,False,중간
+김동현,23세,남,68점,1980/06/14,없음,68.0,A,True,False,중간
+이정희,11,F,,,Retook,,C,False,True,중간
+김선영,twenty,,0b1011100,31.01.1984,,92.0,B,False,False,중간
+박영진,?,,,1989-11-10,,,C,False,False,중간
+,,M,70,1997-01-18,,70.0,A,True,False,고신뢰
+이예준,twenty,,ninety-five,,re-take,,C,False,True,저신뢰
+윤명자,22,남,none,02-05-2000,,,C,False,False,중간
+장서준,,m,,1974년 03월 13일,,,C,False,False,고신뢰
+윤하윤,seventeen,female,,2021/03/10,,,C,False,False,중간
+이은경,0x14,여,,05.11.2006,retake,,C,False,True,중간
+이현우,-,남,61점,03-09-2007,re-take,61.0,A,True,True,중간
+,17세,f,ninety-five,,없음,,C,False,False,저신뢰
+,13,,96점,1990/05/04,re-take,96.0,A,True,True,중간
+송정숙,?,m,,2016년 02월 09일,re-take,,C,False,True,중간
+서정순,twenty,여,none,2012-03-17,re-take,,C,False,True,중간
+윤영자,,F,99,1981-05-17,re-take,99.0,A,True,True,고신뢰
+이병철,,F,,2012년 09월 06일,retake,,C,False,True,고신뢰
+하영식,0x19,남,eighty,20-07-1987,,,C,False,False,중간
+,,F,0b1000000,1975/12/04,.,64.0,B,False,False,고신뢰
+,-,,,13-05-2005,.,,C,False,False,중간
+양경희,twenty,f,,,,,C,False,False,저신뢰
+황민수,,female,eighty,01.02.1980,.,,C,False,False,고신뢰
+김준영,0x17,f,,2023년 01월 18일,re-take,,C,False,True,중간
+,,female,eighty,1997년 12월 17일,Retook,,C,False,True,고신뢰
+이정남,-,남,,,re-take,,C,False,True,중간
+박서준,,여,,28.09.1988,note: 재응시,,C,False,True,고신뢰
+박옥자,24세,male,,2012-01-27,retake,,C,False,True,중간
+송영수,-,F,ninety-five,,.,,C,False,False,중간
+이현정,,여,none,2024년 01월 04일,retake,,C,False,True,고신뢰
+박수빈,,,80,29-01-1989,,80.0,A,True,False,고신뢰
+박현우,seventeen,,,Aug/11/2020,,,C,False,False,중간
+송미정,seventeen,,0b1100001,2022-09-03,,97.0,B,False,False,중간
+윤준호,0x1a,,eighty,,,,C,False,False,저신뢰
+김지현,0x1b,male,,,retake,,C,False,True,중간
+이지연,?,M,,Mar/05/1991,,,C,False,False,중간
+백민재,seventeen,male,,,note: 재응시,,C,False,True,중간
+하상현,21,여,,30.08.1983,note: 재응시,,C,False,True,중간
+이경수,0x10,,100,10-06-1973,,100.0,A,True,False,중간
+박상호,seventeen,,eighty,2013년 03월 29일,,,C,False,False,중간
+이경자,seventeen,,0b1010010,2003년 04월 06일,,82.0,B,False,False,중간
+홍은지,?,여,eighty,,,,C,False,False,저신뢰
+김수빈,,f,88점,Dec/19/2020,Retook,88.0,A,True,True,고신뢰
+한민서,twenty,male,,14-11-1971,retake,,C,False,True,중간
+,11,M,,2023/01/25,note: 재응시,,C,False,True,중간
+김준영,seventeen,여,eighty,24-04-1988,,,C,False,False,중간
+,seventeen,m,ninety-five,,.,,C,False,False,저신뢰
+이성민,?,f,eighty,Jul/01/2024,,,C,False,False,중간
+이주원,,F,58,Oct/15/1990,note: 재응시,58.0,A,True,True,고신뢰
+,,여,eighty,1993년 09월 24일,retake,,C,False,True,고신뢰
+,,m,none,,re-take,,C,False,True,고신뢰
+김시우,15세,,88,2005-06-06,re-take,88.0,A,True,True,중간
+김영자,,F,0b1011100,,retake,92.0,B,False,True,고신뢰
+,-,,,24-04-1990,없음,,C,False,False,중간
+,?,M,none,1974-05-06,retake,,C,False,True,중간
+최영숙,17세,female,eighty,1982년 10월 26일,re-take,,C,False,True,중간
+윤현우,-,female,0b1010010,09.05.1986,retake,82.0,B,False,True,중간
+,22,남,,1991년 10월 01일,.,,C,False,False,중간
+서재현,-,f,88점,1979/07/10,없음,88.0,A,True,False,중간
+서순옥,seventeen,,eighty,,Retook,,C,False,True,저신뢰
+정준서,16,f,,05.12.2008,retake,,C,False,True,중간
+황영수,twenty,female,eighty,,Retook,,C,False,True,중간
+강지원,twenty,,,21-09-2015,,,C,False,False,중간
+,twenty,남,,Dec/29/1989,re-take,,C,False,True,중간
+김상철,-,m,98점,2025년 01월 03일,re-take,98.0,A,True,True,중간
+심영일,14,F,,,.,,C,False,False,중간
+정선영,23세,M,none,1990년 11월 24일,,,C,False,False,중간
+김아름,20,,83,2023/08/19,re-take,83.0,A,True,True,중간
+문순옥,seventeen,F,ninety-five,2001/07/23,,,C,False,False,중간
+이중수,twenty,M,none,2009/06/28,없음,,C,False,False,중간
+,seventeen,male,87점,2004-01-22,retake,87.0,A,True,True,중간
+박예진,twenty,여,,05-04-1980,Retook,,C,False,True,중간
+박지원,,M,0b110111,19-02-2001,.,55.0,B,False,False,고신뢰
+,21,M,0b1001100,1982-04-10,없음,76.0,B,False,False,중간
+,0x1b,f,62,12.12.1973,없음,62.0,A,True,False,중간
+,twenty,,,1984/04/01,,,C,False,False,중간
+이정순,24세,male,ninety-five,,Retook,,C,False,True,중간
+김준호,,,,07.07.1999,,,C,False,False,고신뢰
+엄서준,12,f,0b1001101,1999/03/13,,77.0,B,False,False,중간
+하명자,23세,f,,2006-04-29,Retook,,C,False,True,중간
+,twenty,f,none,,.,,C,False,False,저신뢰
