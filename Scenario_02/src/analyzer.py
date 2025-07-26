@@ -2,6 +2,12 @@ import pandas as pd
 import re
 
 def detect_suspicious_cases(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    점수 정제 품질이 낮거나 (C 등급)
+    점수가 100을 초과하거나 0 이하인 이상 케이스를 추출
+
+    재응시 여부를 암시하는 비고가 있는지도 함꼐 체크
+    """
     def is_retake_note(note: str) -> bool:
         if pd.isna(note):
             return False
@@ -53,4 +59,3 @@ def compare_sample_quality(df: pd.DataFrame) -> pd.DataFrame:
 
     df['신뢰도_샘플_분류'] = tags
     return df
-
